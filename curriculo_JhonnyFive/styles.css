@@ -1,0 +1,39 @@
+body {
+    color: #444;
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 60%;
+    margin: auto;
+    padding: 2%;
+    line-height: 1, 5;
+}
+
+main {
+    background: white;
+    padding: 5%;
+    border: solid 1px gray;
+}
+
+.Cabecalho img {
+    width: 300px;
+}
+
+h1,
+h2,
+h3 {
+    color: rgb(140, 76, 8);
+}
+
+section {
+    margin-top: 0px;
+    padding-bottom: 5px;
+    border-top: solid 1px gray;
+}
+
+.contatos img {
+    height: 25px;
+}
+
+.contatos {
+    list-style: none;
+}
